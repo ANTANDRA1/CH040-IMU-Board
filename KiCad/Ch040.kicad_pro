@@ -196,6 +196,7 @@
       "track_widths": [
         0.0,
         0.3,
+        0.5,
         0.8
       ],
       "tuning_pattern_settings": {
@@ -649,7 +650,7 @@
         "uuid": "450ecd2b-8638-4645-9fbf-d8ce6aa89e20"
       }
     ],
-    "used_designators": "U1,#FLG1-2,R1-6,J1-4,F1,D1,#PWR1-4,H1-4",
+    "used_designators": "J3,J5",
     "variants": []
   },
   "sheets": [
